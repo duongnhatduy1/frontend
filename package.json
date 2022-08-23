@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "download": "^8.0.0",
+    "react-progress-button": "^5.1.0"
+  }
+}
